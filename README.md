@@ -1,5 +1,5 @@
 # Group-3
-# Basic use of Photoshop
+# Top uses of Photoshop
 
 # Leader: Ezekiel Rullan
 # Member: 
